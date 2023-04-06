@@ -1,5 +1,3 @@
-# Colabs_Templates
-
 ------------------------------------
 Templates para bootcamps e ensino
 ------------------------------------

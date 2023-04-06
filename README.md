@@ -3,5 +3,5 @@
 ------------------------------------
 Templates para bootcamps e ensino
 ------------------------------------
-Templates for bootcamps and learning
+Templates for bootcamps and study
 ------------------------------------
